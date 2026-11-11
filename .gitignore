@@ -1,0 +1,17 @@
+# Mac Finder files
+.DS_Store
+
+# Never commit keys or local settings
+.env
+.env.*
+*.key
+
+# Local test material for the examples
+panels/
+*.png
+*.jpg
+*.jpeg
+*.webp
+
+# Python
+__pycache__/
